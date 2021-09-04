@@ -1,0 +1,35 @@
+.portfolis {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 2rem;
+    column-gap: 1rem;
+    @media screen and (max-width: 1600px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @media screen and (max-width: 900px) {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .portfolio {
+        .image-data {
+            position: relative;
+            img {
+                width: 100%;
+                height: 30vh;
+                object-fit: cover;
+            }
+        }
+
+        a {
+            font-size: 1.7rem;
+            font-weight: 400;
+            color: white;
+            text-decoration: none;
+            transition: all 0.3s ease-in-out;
+            &:hover {
+                color: #037fff;
+                cursor: pointer;
+            }
+        }
+    }
+}
