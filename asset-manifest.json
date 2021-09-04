@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb88fd4a.chunk.css",
+    "main.js": "/static/js/main.bc3b3d10.chunk.js",
+    "main.js.map": "/static/js/main.bc3b3d10.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5dea8548.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5dea8548.js.map",
+    "static/js/2.cde2dcf6.chunk.js": "/static/js/2.cde2dcf6.chunk.js",
+    "static/js/2.cde2dcf6.chunk.js.map": "/static/js/2.cde2dcf6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eb88fd4a.chunk.css.map": "/static/css/main.eb88fd4a.chunk.css.map",
+    "static/js/2.cde2dcf6.chunk.js.LICENSE.txt": "/static/js/2.cde2dcf6.chunk.js.LICENSE.txt",
+    "static/media/CV.bbdc708d.pdf": "/static/media/CV.bbdc708d.pdf",
+    "static/media/avt.c0ec85e6.jpg": "/static/media/avt.c0ec85e6.jpg",
+    "static/media/book.ad08f188.png": "/static/media/book.ad08f188.png",
+    "static/media/car.6864e53b.PNG": "/static/media/car.6864e53b.PNG",
+    "static/media/App.scss": "/static/media/dots.943074de.svg",
+    "static/media/emailme.8a80ecd4.svg": "/static/media/emailme.8a80ecd4.svg",
+    "static/media/favorite.3880a827.png": "/static/media/favorite.3880a827.png",
+    "static/media/hospital.aaf5c371.PNG": "/static/media/hospital.aaf5c371.PNG",
+    "static/media/location.08194cba.svg": "/static/media/location.08194cba.svg",
+    "static/media/music.7d6d3923.png": "/static/media/music.7d6d3923.png",
+    "static/media/netflix.7515d978.png": "/static/media/netflix.7515d978.png",
+    "static/media/phone.da4610ad.svg": "/static/media/phone.da4610ad.svg",
+    "static/media/todos.cf989ad1.png": "/static/media/todos.cf989ad1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dea8548.js",
+    "static/js/2.cde2dcf6.chunk.js",
+    "static/css/main.eb88fd4a.chunk.css",
+    "static/js/main.bc3b3d10.chunk.js"
+  ]
+}
