@@ -6,7 +6,7 @@ function PortfoliosPage() {
     return (
         <div className='PortfolioPage'>
             <div className='title'>
-                <Tittle title={'Portfolios'} span={'portfolios'} />
+                <Tittle title={'Projects'} span={'Projects'} />
             </div>
             <div className='portfolios-data'>
                 <MenuItems />
