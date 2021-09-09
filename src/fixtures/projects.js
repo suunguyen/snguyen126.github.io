@@ -5,7 +5,8 @@ import favorite from '../assets/img/favorite.png';
 import book from '../assets/img/book.png';
 import car from '../assets/img/car.PNG';
 import hospital from '../assets/img/hospital.PNG';
-
+import proxy from '../assets/img/proxy.PNG';
+import shell from '../assets/img/shell.PNG';
 export const projects = [
     {
         id: 1,
@@ -18,7 +19,7 @@ export const projects = [
         id: 2,
         image: todos,
         title: 'Tasks Manager',
-        description: 'Todos using ReactJS/ NodeJS/ ExpressJS/ MongoDB',
+        description: 'Tasks Manager using ReactJS/ NodeJS/ ExpressJS/ MongoDB',
         direction: 'https://github.com/snguyen126/react-nodejs-todos',
     },
     {
@@ -55,5 +56,19 @@ export const projects = [
         title: 'Hospital Manager',
         description: 'Hospital Manager using C++/OOP',
         direction: 'https://github.com/snguyen126/hospital-manager',
+    },
+    {
+        id: 8,
+        image: proxy,
+        title: 'Proxy Server',
+        description: 'Proxy Server using C++/Socket',
+        direction: 'https://github.com/snguyen126/proxy-server',
+    },
+    {
+        id: 9,
+        image: shell,
+        title: 'Unix Shell',
+        description: 'Unix Shell using C++',
+        direction: 'https://github.com/snguyen126/unix-simple-shell',
     },
 ];
