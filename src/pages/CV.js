@@ -4,7 +4,7 @@ import CVPDF from '../assets/pdf/CV.pdf';
 const CV = () => {
     return (
         <div className='title'>
-            <Title title={'CURRICULUM VITAECURRICU'} span={'CURRICULUM VITAECURRICU'} />
+            <Title title={'CURRICULUM VITAE'} span={'CURRICULUM VITAE'} />
             <object
                 width='100%'
                 height='700vh'

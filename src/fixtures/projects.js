@@ -17,7 +17,7 @@ export const projects = [
     {
         id: 2,
         image: todos,
-        title: 'Todos',
+        title: 'Tasks Manager',
         description: 'Todos using ReactJS/ NodeJS/ ExpressJS/ MongoDB',
         direction: 'https://github.com/snguyen126/react-nodejs-todos',
     },
